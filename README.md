@@ -1,10 +1,10 @@
 # Rubik's Cube Simulator
 
-A 3D Rubik's Cube simulator written in C, supporting arbitrary N x N x N grid sizes. 
+A 3D Rubik's Cube simulator written in C, supporting N x N x N grid sizes. 
 
 The program utilizes complex 3D array transformations to accurately model multi-layer rotations. It features a custom text-based command parser (based on a context-free grammar) to process rotational operations in real-time. Built with a strong focus on memory safety and strict compiler standards.
 
-*Note: For the detailed, original academic requirements and strict evaluation rules (in Polish), see [PROJEKT.md](PROJEKT.md).*
+*Note: For the detailed, original academic requirements and strict evaluation rules (in Polish), see [SPECIFICATION_PL.md](SPECIFICATION_PL.md).*
 
 ### Tech Stack
 * **Language:** C (C17 standard)
